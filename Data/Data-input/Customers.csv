@@ -1,10 +1,10 @@
-ID;Company;Last_Name;First_Name;E-mail_Address;Job_Title;Business_Phone;Home_Phone;Mobile_Phone;Fax_Number;Address;City;State_Province;ZIP_Postal_Code;Country_Region;Web_Page;Notes;Attachments
+    ID;Company;Last_Name;First_Name;E-mail_Address;Job_Title;Business_Phone;Home_Phone;Mobile_Phone;Fax_Number;Address;City;State_Province;ZIP_Postal_Code;Country_Region;Web_Page;Notes;Attachments
 1;Company A;Bedecs;Anna;;Owner;(123)555-0100;;;(123)555-0101;123 1st Street;Seattle;WA;99999;USA;;;
 2;Company B;Gratacos Solsona;Antonio;;Owner;(123)555-0100;;;(123)555-0101;123 2nd Street;Boston;MA;99999;USA;;;
 3;Company C;Axen;Thomas;;Purchasing Representative;(123)555-0100;;;(123)555-0101;123 3rd Street;Los Angelas;CA;99999;USA;;;
 4;Company D;Lee;Christina;;Purchasing Manager;(123)555-0100;;;(123)555-0101;123 4th Street;New York;NY;99999;USA;;;
-5;Company E;O’Donnell;Martin;;Owner;(123)555-0100;;;(123)555-0101;123 5th Street;Minneapolis;MN;99999;USA;;;
-6;Company F;Pérez-Olaeta;Francisco;;Purchasing Manager;(123)555-0100;;;(123)555-0101;123 6th Street;Milwaukee;WI;99999;USA;;;
+5;Company E;Oï¿½Donnell;Martin;;Owner;(123)555-0100;;;(123)555-0101;123 5th Street;Minneapolis;MN;99999;USA;;;
+6;Company F;Pï¿½rez-Olaeta;Francisco;;Purchasing Manager;(123)555-0100;;;(123)555-0101;123 6th Street;Milwaukee;WI;99999;USA;;;
 7;Company G;Xie;Ming-Yang;;Owner;(123)555-0100;;;(123)555-0101;123 7th Street;Boise;ID;99999;USA;;;
 8;Company H;Andersen;Elizabeth;;Purchasing Representative;(123)555-0100;;;(123)555-0101;123 8th Street;Portland;OR;99999;USA;;;
 9;Company I;Mortensen;Sven;;Purchasing Manager;(123)555-0100;;;(123)555-0101;123 9th Street;Salt Lake City;UT;99999;USA;;;

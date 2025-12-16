@@ -1,0 +1,90 @@
+Customer_ID,Total_Orders,Delivered,Undelivered,Country,City,Delivery_Rate,Segment
+ALFKI,25,25,0,Germany,Berlin,100.0,VIP
+ANATR,25,25,0,Mexico,M?Xico D.F.,100.0,VIP
+ANTON,44,44,0,Mexico,M?Xico D.F.,100.0,VIP
+AROUT,62,62,0,Uk,London,100.0,VIP
+BERGS,96,96,0,Sweden,Lule?,100.0,VIP
+BLAUS,44,36,8,Germany,Mannheim,81.81818181818183,VIP
+BLONP,63,63,0,France,Strasbourg,100.0,VIP
+BOLID,16,16,0,Spain,Madrid,100.0,VIP
+BONAP,93,89,4,France,Marseille,95.6989247311828,VIP
+BOTTM,81,75,6,Canada,Tsawassen,92.5925925925926,VIP
+BSBEV,60,60,0,Uk,London,100.0,VIP
+CACTU,41,36,5,Argentina,Buenos Aires,87.8048780487805,VIP
+CENTC,4,4,0,Mexico,M?Xico D.F.,100.0,Occasional
+CHOPS,47,47,0,Switzerland,Bern,100.0,VIP
+COMMI,24,24,0,Brazil,Sao Paulo,100.0,VIP
+CONSH,24,24,0,Uk,London,100.0,VIP
+DRACD,31,31,0,Germany,Aachen,100.0,VIP
+DUMON,33,33,0,France,Nantes,100.0,VIP
+EASTC,46,46,0,Uk,London,100.0,VIP
+ERNSH,179,164,15,Austria,Graz,91.62011173184358,VIP
+FAMIA,48,48,0,Brazil,Sao Paulo,100.0,VIP
+FOLIG,23,23,0,France,Lille,100.0,VIP
+FOLKO,117,117,0,Sweden,Br?Cke,100.0,VIP
+FRANK,66,66,0,Germany,M?Nchen,100.0,VIP
+FRANR,16,16,0,France,Nantes,100.0,VIP
+FRANS,32,32,0,Italy,Torino,100.0,VIP
+FURIB,36,36,0,Portugal,Lisboa,100.0,VIP
+GALED,22,22,0,Spain,Barcelona,100.0,VIP
+GODOS,74,74,0,Spain,Sevilla,100.0,VIP
+GOURL,53,53,0,Brazil,Campinas,100.0,VIP
+GREAL,51,43,8,Usa,Eugene,84.31372549019608,VIP
+GROSR,8,8,0,Venezuela,Caracas,100.0,Regular
+HANAR,70,70,0,Brazil,Rio De Janeiro,100.0,VIP
+HILAA,106,106,0,Venezuela,San Crist?Bal,100.0,VIP
+HUNGC,22,22,0,Usa,Elgin,100.0,VIP
+HUNGO,125,125,0,Ireland,Cork,100.0,VIP
+ISLAT,51,51,0,Uk,Cowes,100.0,VIP
+KOENE,79,79,0,Germany,Brandenburg,100.0,VIP
+LACOR,22,22,0,France,Versailles,100.0,VIP
+LAMAI,90,79,11,France,Toulouse,87.77777777777777,VIP
+LAUGB,21,21,0,Canada,Vancouver,100.0,VIP
+LAZYK,8,8,0,Usa,Walla Walla,100.0,Regular
+LEHMS,96,88,8,Germany,Frankfurt A.M.,91.66666666666666,VIP
+LETSS,18,18,0,Usa,San Francisco,100.0,VIP
+LILAS,73,65,8,Venezuela,Barquisimeto,89.04109589041096,VIP
+LINOD,63,60,3,Venezuela,I. De Margarita,95.23809523809523,VIP
+LONEP,41,41,0,Usa,Portland,100.0,VIP
+MAGAA,61,61,0,Italy,Bergamo,100.0,VIP
+MAISD,48,48,0,Belgium,Bruxelles,100.0,VIP
+MEREP,68,68,0,Canada,Montr?Al,100.0,VIP
+MORGK,30,30,0,Germany,Leipzig,100.0,VIP
+NORTS,18,18,0,Uk,London,100.0,VIP
+OCEAN,36,36,0,Argentina,Buenos Aires,100.0,VIP
+OLDWO,51,51,0,Usa,Anchorage,100.0,VIP
+OTTIK,52,52,0,Germany,K?Ln,100.0,VIP
+PERIC,43,35,8,Mexico,M?Xico D.F.,81.3953488372093,VIP
+PICCO,72,72,0,Austria,Salzburg,100.0,VIP
+PRINI,37,37,0,Portugal,Lisboa,100.0,VIP
+QUEDE,49,49,0,Brazil,Rio De Janeiro,100.0,VIP
+QUEEN,90,85,5,Brazil,Sao Paulo,94.44444444444444,VIP
+QUICK,160,160,0,Germany,Cunewalde,100.0,VIP
+RANCH,25,19,6,Argentina,Buenos Aires,76.0,VIP
+RATTC,91,88,3,Usa,Albuquerque,96.7032967032967,VIP
+REGGC,74,70,4,Italy,Reggio Emilia,94.5945945945946,VIP
+RICAR,60,52,8,Brazil,Rio De Janeiro,86.66666666666667,VIP
+RICSU,64,59,5,Switzerland,Gen?Ve,92.1875,VIP
+ROMEY,23,23,0,Spain,Madrid,100.0,VIP
+SANTG,41,41,0,Norway,Stavern,100.0,VIP
+SAVEA,185,185,0,Usa,Boise,100.0,VIP
+SEVES,57,57,0,Uk,London,100.0,VIP
+SIMOB,57,46,11,Denmark,Kobenhavn,80.7017543859649,VIP
+SPECD,27,27,0,France,Paris,100.0,VIP
+SPLIR,47,47,0,Usa,Lander,100.0,VIP
+SUPRD,76,76,0,Belgium,Charleroi,100.0,VIP
+THEBI,22,22,0,Usa,Portland,100.0,VIP
+THECR,20,20,0,Usa,Butte,100.0,VIP
+TOMSP,34,34,0,Germany,M?Nster,100.0,VIP
+TORTU,53,53,0,Mexico,M?Xico D.F.,100.0,VIP
+TRADH,30,30,0,Brazil,Sao Paulo,100.0,VIP
+TRAIH,18,18,0,Usa,Kirkland,100.0,VIP
+VAFFE,56,56,0,Denmark,?Rhus,100.0,VIP
+VICTE,47,47,0,France,Lyon,100.0,VIP
+VINET,35,35,0,France,Reims,100.0,VIP
+WANDK,56,56,0,Germany,Stuttgart,100.0,VIP
+WARTH,90,90,0,Finland,Oulu,100.0,VIP
+WELLI,56,56,0,Brazil,Resende,100.0,VIP
+WHITC,82,82,0,Usa,Seattle,100.0,VIP
+WILMK,47,47,0,Finland,Helsinki,100.0,VIP
+WOLZA,33,33,0,Poland,Warszawa,100.0,VIP

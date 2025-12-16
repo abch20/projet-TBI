@@ -1,0 +1,121 @@
+id_client_prod,CompanyName,City,Country,source_prod,id_seqClient
+"ALFKI","Alfreds Futterkiste","Berlin","Germany","NORTHWIND",1
+"ANATR","Ana Trujillo Emparedados y helados","M?Xico D.F.","Mexico","NORTHWIND",2
+"ANTON","Antonio Moreno Taquer?a","M?Xico D.F.","Mexico","NORTHWIND",3
+"AROUT","Around the Horn","London","Uk","NORTHWIND",4
+"BERGS","Berglunds snabbk?p","Lule?","Sweden","NORTHWIND",5
+"BLAUS","Blauer See Delikatessen","Mannheim","Germany","NORTHWIND",6
+"BLONP","Blondesddsl p?re et fils","Strasbourg","France","NORTHWIND",7
+"BOLID","B?lido Comidas preparadas","Madrid","Spain","NORTHWIND",8
+"BONAP","Bon app'","Marseille","France","NORTHWIND",9
+"BOTTM","Bottom-Dollar Markets","Tsawassen","Canada","NORTHWIND",10
+"BSBEV","B's Beverages","London","Uk","NORTHWIND",11
+"CACTU","Cactus Comidas para llevar","Buenos Aires","Argentina","NORTHWIND",12
+"CENTC","Centro comercial Moctezuma","M?Xico D.F.","Mexico","NORTHWIND",13
+"CHOPS","Chop-suey Chinese","Bern","Switzerland","NORTHWIND",14
+"COMMI","Com?rcio Mineiro","Sao Paulo","Brazil","NORTHWIND",15
+"CONSH","Consolidated Holdings","London","Uk","NORTHWIND",16
+"DRACD","Drachenblut Delikatessen","Aachen","Germany","NORTHWIND",17
+"DUMON","Du monde entier","Nantes","France","NORTHWIND",18
+"EASTC","Eastern Connection","London","Uk","NORTHWIND",19
+"ERNSH","Ernst Handel","Graz","Austria","NORTHWIND",20
+"FAMIA","Familia Arquibaldo","Sao Paulo","Brazil","NORTHWIND",21
+"FISSA","FISSA Fabrica Inter. Salchichas S.A.","Madrid","Spain","NORTHWIND",22
+"FOLIG","Folies gourmandes","Lille","France","NORTHWIND",23
+"FOLKO","Folk och f? HB","Br?Cke","Sweden","NORTHWIND",24
+"FRANK","Frankenversand","M?Nchen","Germany","NORTHWIND",25
+"FRANR","France restauration","Nantes","France","NORTHWIND",26
+"FRANS","Franchi S.p.A.","Torino","Italy","NORTHWIND",27
+"FURIB","Furia Bacalhau e Frutos do Mar","Lisboa","Portugal","NORTHWIND",28
+"GALED","Galer?a del gastr?nomo","Barcelona","Spain","NORTHWIND",29
+"GODOS","Godos Cocina T?pica","Sevilla","Spain","NORTHWIND",30
+"GOURL","Gourmet Lanchonetes","Campinas","Brazil","NORTHWIND",31
+"GREAL","Great Lakes Food Market","Eugene","Usa","NORTHWIND",32
+"GROSR","GROSELLA-Restaurante","Caracas","Venezuela","NORTHWIND",33
+"HANAR","Hanari Carnes","Rio De Janeiro","Brazil","NORTHWIND",34
+"HILAA","HILARION-Abastos","San Crist?Bal","Venezuela","NORTHWIND",35
+"HUNGC","Hungry Coyote Import Store","Elgin","Usa","NORTHWIND",36
+"HUNGO","Hungry Owl All-Night Grocers","Cork","Ireland","NORTHWIND",37
+"ISLAT","Island Trading","Cowes","Uk","NORTHWIND",38
+"KOENE","K?niglich Essen","Brandenburg","Germany","NORTHWIND",39
+"LACOR","La corne d'abondance","Versailles","France","NORTHWIND",40
+"LAMAI","La maison d'Asie","Toulouse","France","NORTHWIND",41
+"LAUGB","Laughing Bacchus Wine Cellars","Vancouver","Canada","NORTHWIND",42
+"LAZYK","Lazy K Kountry Store","Walla Walla","Usa","NORTHWIND",43
+"LEHMS","Lehmanns Marktstand","Frankfurt A.M.","Germany","NORTHWIND",44
+"LETSS","Let's Stop N Shop","San Francisco","Usa","NORTHWIND",45
+"LILAS","LILA-Supermercado","Barquisimeto","Venezuela","NORTHWIND",46
+"LINOD","LINO-Delicateses","I. De Margarita","Venezuela","NORTHWIND",47
+"LONEP","Lonesome Pine Restaurant","Portland","Usa","NORTHWIND",48
+"MAGAA","Magazzini Alimentari Riuniti","Bergamo","Italy","NORTHWIND",49
+"MAISD","Maison Dewey","Bruxelles","Belgium","NORTHWIND",50
+"MEREP","M?re Paillarde","Montr?Al","Canada","NORTHWIND",51
+"MORGK","Morgenstern Gesundkost","Leipzig","Germany","NORTHWIND",52
+"NORTS","North/South","London","Uk","NORTHWIND",53
+"OCEAN","Oc?ano Atl?ntico Ltda.","Buenos Aires","Argentina","NORTHWIND",54
+"OLDWO","Old World Delicatessen","Anchorage","Usa","NORTHWIND",55
+"OTTIK","Ottilies K?seladen","K?Ln","Germany","NORTHWIND",56
+"PARIS","Paris sp?cialit?s","Paris","France","NORTHWIND",57
+"PERIC","Pericles Comidas cl?sicas","M?Xico D.F.","Mexico","NORTHWIND",58
+"PICCO","Piccolo und mehr","Salzburg","Austria","NORTHWIND",59
+"PRINI","Princesa Isabel Vinhos","Lisboa","Portugal","NORTHWIND",60
+"QUEDE","Que Del?cia","Rio De Janeiro","Brazil","NORTHWIND",61
+"QUEEN","Queen Cozinha","Sao Paulo","Brazil","NORTHWIND",62
+"QUICK","QUICK-Stop","Cunewalde","Germany","NORTHWIND",63
+"RANCH","Rancho grande","Buenos Aires","Argentina","NORTHWIND",64
+"RATTC","Rattlesnake Canyon Grocery","Albuquerque","Usa","NORTHWIND",65
+"REGGC","Reggiani Caseifici","Reggio Emilia","Italy","NORTHWIND",66
+"RICAR","Ricardo Adocicados","Rio De Janeiro","Brazil","NORTHWIND",67
+"RICSU","Richter Supermarkt","Gen?Ve","Switzerland","NORTHWIND",68
+"ROMEY","Romero y tomillo","Madrid","Spain","NORTHWIND",69
+"SANTG","Sant? Gourmet","Stavern","Norway","NORTHWIND",70
+"SAVEA","Save-a-lot Markets","Boise","Usa","NORTHWIND",71
+"SEVES","Seven Seas Imports","London","Uk","NORTHWIND",72
+"SIMOB","Simons bistro","Kobenhavn","Denmark","NORTHWIND",73
+"SPECD","Sp?cialit?s du monde","Paris","France","NORTHWIND",74
+"SPLIR","Split Rail Beer & Ale","Lander","Usa","NORTHWIND",75
+"SUPRD","Supr?mes d?lices","Charleroi","Belgium","NORTHWIND",76
+"THEBI","The Big Cheese","Portland","Usa","NORTHWIND",77
+"THECR","The Cracker Box","Butte","Usa","NORTHWIND",78
+"TOMSP","Toms Spezialit?ten","M?Nster","Germany","NORTHWIND",79
+"TORTU","Tortuga Restaurante","M?Xico D.F.","Mexico","NORTHWIND",80
+"TRADH","Tradi??o Hipermercados","Sao Paulo","Brazil","NORTHWIND",81
+"TRAIH","Trail's Head Gourmet Provisioners","Kirkland","Usa","NORTHWIND",82
+"VAFFE","Vaffeljernet","?Rhus","Denmark","NORTHWIND",83
+"VICTE","Victuailles en stock","Lyon","France","NORTHWIND",84
+"VINET","Vins et alcools Chevalier","Reims","France","NORTHWIND",85
+"WANDK","Die Wandernde Kuh","Stuttgart","Germany","NORTHWIND",86
+"WARTH","Wartian Herkku","Oulu","Finland","NORTHWIND",87
+"WELLI","Wellington Importadora","Resende","Brazil","NORTHWIND",88
+"WHITC","White Clover Markets","Seattle","Usa","NORTHWIND",89
+"WILMK","Wilman Kala","Helsinki","Finland","NORTHWIND",90
+"WOLZA","Wolski  Zajazd","Warszawa","Poland","NORTHWIND",91
+"1","Company A","Seattle","Usa","Access",92
+"2","Company B","Boston","Usa","Access",93
+"3","Company C","Los Angelas","Usa","Access",94
+"4","Company D","New York","Usa","Access",95
+"5","Company E","Minneapolis","Usa","Access",96
+"6","Company F","Milwaukee","Usa","Access",97
+"7","Company G","Boise","Usa","Access",98
+"8","Company H","Portland","Usa","Access",99
+"9","Company I","Salt Lake City","Usa","Access",100
+"10","Company J","Chicago","Usa","Access",101
+"11","Company K","Miami","Usa","Access",102
+"12","Company L","Las Vegas","Usa","Access",103
+"13","Company M","Memphis","Usa","Access",104
+"14","Company N","Denver","Usa","Access",105
+"15","Company O","Honolulu","Usa","Access",106
+"16","Company P","San Francisco","Usa","Access",107
+"17","Company Q","Seattle","Usa","Access",108
+"18","Company R","Boston","Usa","Access",109
+"19","Company S","Los Angelas","Usa","Access",110
+"20","Company T","New York","Usa","Access",111
+"21","Company U","Minneapolis","Usa","Access",112
+"22","Company V","Milwaukee","Usa","Access",113
+"23","Company W","Portland","Usa","Access",114
+"24","Company X","Salt Lake City","Usa","Access",115
+"25","Company Y","Chicago","Usa","Access",116
+"26","Company Z","Miami","Usa","Access",117
+"27","Company AA","Las Vegas","Usa","Access",118
+"28","Company BB","Memphis","Usa","Access",119
+"29","Company CC","Denver","Usa","Access",120
